@@ -1,8 +1,7 @@
-# ticket
+# OJTIX
 
-A new Flutter project.
+OJTIX is your personal assistant ticketing application .
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
